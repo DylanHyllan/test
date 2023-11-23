@@ -1,6 +1,6 @@
 # mitt nya program
 
-def hej():
-    print("hej hej")
+def hej(namn):
+    print(f"hej hej {namn}")
 
 hej()
