@@ -5,4 +5,4 @@ def hej(namn):
 
 hej("johanna")
 
-print("coffee spelt bacwards is effocc\n which is funny")
+print("hej")
